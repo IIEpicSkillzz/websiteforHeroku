@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+}
+body {
+    background-color: lightcoral;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+    font-size:170%;
+    font-family: "Times New Roman", Times, serif;
+    color: lawngreen;
+}
+img {
+    margin-left:40%;
+}
+button {
+    width: 150px;
+    height: 150px;
+
+}
